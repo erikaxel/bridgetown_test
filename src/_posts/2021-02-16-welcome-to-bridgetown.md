@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Your First Post on Bridgetown"
-date:   2021-02-16 08:22:11 +0100
+title: Your First Post on Bridgetown
+date: 2021-02-16T08:22:11.000+01:00
 categories: updates
+
 ---
+Hello world.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bridgetown serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -21,6 +23,6 @@ def print_hi(name)
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-````
+```
 
 Check out the [Bridgetown docs](https://bridgetownrb.com/docs/) for more info on how to get the most out of Bridgetown. File all bugs/feature requests at [Bridgetown’s GitHub repo](https://github.com/bridgetownrb/bridgetown). If you have questions, you can ask them on [Bridgetown Discussions on GitHub](https://github.com/bridgetownrb/bridgetown/discussions).
